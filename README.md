@@ -1,12 +1,15 @@
 # Introduction of Feature engineer 1
-(Enter your text from line 3 onwards) 
+
 
 
 
 
 # Introduction of Feature engineer 2 
-(Enter your text from line 9 onwards)
 
+Hello I'm Laxmikant
+my teammate is Chandu from the same branch
+here we are for a github session
+usually there is no college on satuarday still we are here to attend this session
 
 
 
